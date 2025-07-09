@@ -1,4 +1,4 @@
-*.pt
+YOLO*.pt
 __pycache__/
 runs/
 debug/
